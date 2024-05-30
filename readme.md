@@ -18,4 +18,4 @@ What it does is: load HTML using CORS proxy, then process all links, frames, scr
 
 ## License
 
-&copy; 2019 Jerzy Głowacki under Apache License 2.0.
+&copy; 2024 Jerzy Głowacki under Apache License 2.0.
